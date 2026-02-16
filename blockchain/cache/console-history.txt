@@ -1,0 +1,59 @@
+console.log(property.owner)
+const property = await contract.getProperty("QmPFjovpY1P1XAuBoEDgP6iE9rDDLfMUAuHdRr5QH5sQp5");
+console.log(property.owner);
+console.log(property.status);
+console.log(property.owner);
+const property=await contract.getProperty("const property = await contract.getProperty(propertyId);)
+console.log(property.status);
+console.log(property.owner);
+const property = await contract.getProperty(propertyId);
+console.log(property.status);
+console.log(property.owner);
+const property = await contract.getProperty(propertyId);
+console.log(property.status);
+console.log(property.owner);
+const property = await contract.getProperty(propertyId);
+const property = await contract.getProperty("0x90f79bf6eb2c4f870365e785982e1f101e93b906");
+0x90f79bf6eb2c4f870365e785982e1f101e93b906
+npx hardhat run scripts/contractDeployment.js --network localhost
+await contract.removeRegistrar("0x70997970c51812dc3a010c7d01b50e0d17dc79c8")
+const addr = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+const contract = await ethers.getContractAt("DocumentVault", addr);
+const addr = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+await contract.removeRegistrar("0x70997970c51812dc3a010c7d01b50e0d17dc79c8")
+await contract.removeRegistrar("0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+await contract.removeRegistrar("0x70997970c51812dc3a010c7d01b50e0d17dc79c8")
+await contract.registrars("0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+await contract.registrars("0x90F79bf6EB2c4f870365E785982E1f101E93b906")
+await contract.registrars("0x70997970c51812dc3a010c7d01b50e0d17dc79c8")
+await contract.registrars("0x....")
+await contract.getOwner("QmW2p2pDy3TqQgQJ4vRwybVpjpWdYuHrMGHwdyxGKdXedY")
+await contract.registrars("0x70997970C51812dc3A010C7d01b50e0d17dc79C8")
+await contract.addRegistrar("0x70997970C51812dc3A010C7d01b50e0d17dc79C8");
+);
+  admin
+  "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "DocumentVault",
+const contract = await ethers.getContractAt(
+admin.address
+const [admin] = await ethers.getSigners();
+admin.address
+const [admin] = await ethers.getSigners();
+admin.addressadmin.address
+const [admin] = await ethers.getSigners();
+await contract.registrars("0x90F79bf6EB2c4f870365E785982E1f101E93b906")
+await contract.addRegistrar("0x90F79bf6EB2c4f870365E785982E1f101E93b906")
+)
+  "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+  "DocumentVault",
+const contract = await ethers.getContractAt(
+  "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+  "DocumentVault",
+const contract = await ethers.getContractAt(
+npx hardhat run scripts/deploy.js --network localhost
+await ethers.provider.getBalance("0x90F79bf6EB2c4f870365E785982E1f101E93b906")
+await ethers.provider.getBalance("0x7c852118294e51e653712a81e05800f419141751be58f605c371e15141b007a60x642Da70fa72907428e7Fe015061EDb3674D6E5D3")
+0x7c852118294e51e653712a81e05800f419141751be58f605c371e15141b007a6
+0x7c852118294e51e653712a81e05800f419141751be58f605c371e15141b007a60x642Da70fa72907428e7Fe015061EDb3674D6E5D3
+await ethers.provider.getBalance("0x642Da70fa72907428e7Fe015061EDb3674D6E5D3")
+npx hardhat console --network localhost
